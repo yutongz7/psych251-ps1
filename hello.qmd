@@ -3,4 +3,6 @@ title: "hello"
 format: html
 ---
 
+```{r}
 summary(cars)
+```
