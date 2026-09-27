@@ -6,3 +6,6 @@ format: html
 ```{r}
 summary(cars)
 ```
+
+# 3. Add a second file and push a change
+Another change here.
