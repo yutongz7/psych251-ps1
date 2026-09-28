@@ -3,4 +3,5 @@
 .RData
 .Ruserdata
 *.html
+!docs/*.html
 .secrets
