@@ -16,3 +16,6 @@ library(ggplot2)
 ggplot(cars, aes(x = speed, y = dist)) +
   geom_point()
 ```
+
+# 5. Review a classmate's pull request
+My collaborator's repository: https://github.com/zoekaputa/psych521-ps1.git status
