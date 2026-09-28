@@ -18,4 +18,4 @@ ggplot(cars, aes(x = speed, y = dist)) +
 ```
 
 # 5. Review a classmate's pull request
-My collaborator's repository: https://github.com/zoekaputa/psych521-ps1.git status
+My collaborator's repository: https://github.com/zoekaputa/psych521-ps1.git
