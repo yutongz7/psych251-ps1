@@ -9,3 +9,10 @@ summary(cars)
 
 # 3. Add a second file and push a change
 Another change here.
+
+```{r}
+library(ggplot2)
+
+ggplot(cars, aes(x = speed, y = dist)) +
+  geom_point()
+```
